@@ -4,7 +4,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/dongryphon/switchit/badge.svg?branch=master)](https://coveralls.io/github/dongryphon/switchit?branch=master)
 [![Dependencies Status](https://david-dm.org/dongryphon/switchit/status.svg)](https://david-dm.org/dongryphon/switchit)
 [![npm version](https://badge.fury.io/js/switchit.svg)](https://badge.fury.io/js/switchit)
-[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)   
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)   
 
 # switchit
 A no-nonsense framework for command-line switch parsing and command dispatching.
