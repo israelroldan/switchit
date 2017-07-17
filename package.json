@@ -12,7 +12,8 @@
     "pretest": "npm run lint && nsp check",
     "test:unit": "nyc mocha test/unit",
     "test": "npm run test:unit",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "coverage": "nyc report --reporter=text-lcov | coveralls",
+    "commit": "git-cz"
   },
   "repository": "dongryphon/switchit",
   "keywords": [
@@ -28,6 +29,7 @@
   "eslintConfig": ".eslintrc.json",
   "devDependencies": {
     "co": "^4.6.0",
+    "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
     "cz-customizable": "^5.0.0",
     "eslint": "^4.2.0",
